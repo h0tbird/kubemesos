@@ -1,5 +1,5 @@
-# docker-kubernetes
+# docker-kubemesos
 
-[![Build Status](https://travis-ci.org/katosys/docker-kubernetes.svg?branch=master)](https://travis-ci.org/katosys/docker-kubernetes)
+[![Build Status](https://travis-ci.org/katosys/docker-kubemesos.svg?branch=master)](https://travis-ci.org/katosys/docker-kubemesos)
 
-Containerized kubernetes
+Containerized kubernetes-mesos
